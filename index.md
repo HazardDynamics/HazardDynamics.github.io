@@ -73,6 +73,6 @@ page_sections:
   slug: blocks
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: "© 2020 Hazard Dynamics LLC"
 
 ---
