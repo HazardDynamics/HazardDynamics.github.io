@@ -15,6 +15,17 @@ page_sections:
     link_text: Contact Us
 - template: content-feature
   block: feature-1
+  media_alignment: Right
+  slug: main
+  headline: Welcome!
+  content: "<p>Hazard Dynamics is an engineering and technical consulting company
+    that specializes in fire and explosion risks associated with battery systems,
+    clean energy and conventional fuel sources.</p>"
+  media:
+    image: "/uploads/2020/10/20/hazarddynamics_stackedgood.png"
+    alt_text: Hazard Dynamics LLC Logo
+- template: content-feature
+  block: feature-1
   media_alignment: Left
   slug: services
   headline: "<strong>Services</strong>"
