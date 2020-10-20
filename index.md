@@ -74,7 +74,7 @@ page_sections:
     and conference papers in heat transfer and combustion and has co-authored books
     on heat transfer and a book chapter on ignition.</p>"
   media:
-    image: "/uploads/2020/10/20/ezekoye_crop.jpg"
+    image: "/uploads/2020/10/20/ezekoye_crop2.jpg"
     alt_text: ''
 - template: content-feature
   block: feature-1
@@ -90,7 +90,7 @@ page_sections:
     has authored or co-authored several publications in peer-reviewed journals and
     conference proceedings and is a co-author of a book chapter on vapor cloud explosions.</p>"
   media:
-    image: "/uploads/2020/10/20/marr_crop.jpg"
+    image: "/uploads/2020/10/20/marr_crop2.jpg"
     alt_text: ''
 - template: simple-footer
   block: footer-1
