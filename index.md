@@ -63,6 +63,22 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: marr
+  headline: Kevin C. Marr, PhD, P.E.
+  content: "<p>Dr. Kevin Marr is an expert in heat transfer, combustion, and fire
+    science. His research areas include fire and thermal safety of batteries and fire
+    forensic methods. Dr. Marr has expertise in a wide range of experimental and analytical
+    techniques and has developed custom tools and techniques to analyze and assess
+    fire and explosion hazards encountered in various industries, including consumer
+    products, agriculture, and petrochemical and manufacturing refineries. Dr. Marr
+    has authored or co-authored several publications in peer-reviewed journals and
+    conference proceedings and is a co-author of a book chapter on vapor cloud explosions.</p>"
+  media:
+    image: ''
+    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: "© 2020 Hazard Dynamics LLC"
