@@ -20,6 +20,16 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2020/10/20/hazarddynamics_horizontal2.png"
+  navigation:
+  - link: "#services"
+    link_text: Services
+  - link_text: About Us
+    link: "#about"
+  - link: "#contact"
+    link_text: Contact Us
 - template: content-feature
   block: feature-1
   media_alignment: Left
