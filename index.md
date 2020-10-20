@@ -20,9 +20,9 @@ page_sections:
   headline: Welcome!
   content: "<p>Hazard Dynamics is an engineering and technical consulting company
     that specializes in fire and explosion risks associated with battery systems,
-    clean energy and conventional fuel sources. </p><p>We offer the following services:</p><ul><li><p>Fire
-    &amp; Explosion Risk Assessment</p></li><li><p>Expert Witness</p></li><li><p>Battery
-    Safety System Design</p></li></ul>"
+    clean energy and conventional fuel sources.</p><p>We offer the following services:</p><ul><li><p>Fire
+    &amp; Explosion Risk Assessment</p></li><li><p>Expert Witness Services for Fires,
+    Explosions and Battery Failures</p></li><li><p>Battery Safety System Design Assistance</p></li></ul>"
   media:
     image: "/uploads/2020/10/20/hazarddynamics_stackedgood.png"
     alt_text: Hazard Dynamics LLC Logo
