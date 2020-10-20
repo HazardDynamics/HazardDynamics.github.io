@@ -32,9 +32,10 @@ page_sections:
   media_alignment: Right
   slug: about
   headline: "<strong>About Us</strong>"
-  content: 'Our company provides '
+  content: "<p>Our company includes experts in fires, explosion, battery systems and
+    experiments.</p>"
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2020/10/20/pexels-lumn-167682.jpg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
