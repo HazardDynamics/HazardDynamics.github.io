@@ -30,6 +30,14 @@ page_sections:
     image: "/uploads/2020/10/20/greenenergyfirecollage.png"
     alt_text: Photos of Electric car, green energy, lithium-ion battery, battery powered
       scooter and fire
+- template: detail-content
+  block: text-1
+  headline: 'Services provided:'
+  content: "<ul><li><p>Expert review and design for litihum-ion battery fire and explosion
+    safety systems</p></li><li><p>Lithium-ion battery safety research</p></li><li><p>ESS
+    (Energy Storage System) Fire and Explosion Hazard Assessment</p></li><li><p>Expert
+    Witness and Forensic Services</p></li><li><p>Fire and Explosion Risk Assessment</p></li><li><p>Green
+    Energy Fire and Explosion Safety</p></li></ul>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
