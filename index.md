@@ -30,6 +30,16 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Lithium-Ion Battery Expert Witness Services
+  slug: LIB-Expert
+  content: We are experts in the thermal runaway failure of lithium-ion batteries
+    and provide expert witness and forensic services for consumer battery failures.
+  media:
+    image: "/uploads/2020/10/20/pexels-tyler-lastovich-719399.jpg"
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   slug: about
   headline: "<strong>About Us</strong>"
   content: "<p>Our company includes experts in fires, explosion, battery systems and
@@ -37,23 +47,21 @@ page_sections:
   media:
     image: "/uploads/2020/10/20/pexels-lumn-167682.jpg"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Lithium-Ion Battery Expert Witness Services
-  slug: LIB-Expert
-  content: We are experts in the thermal runaway failure of lithium-ion batteries
-    and provide expert witness and forensic services for consumer battery failures.
+  slug: ezekoye
+  headline: Ofodike Ezekoye, PhD, P.E.
+  content: "<p>Dr. Ofodike Ezekoye is an expert in combustion and heat transfer in
+    high temperature and reacting systems such as combustion engines, furnaces, and
+    structure fires. His research covers a range of applications from fundamentals
+    of combustion systems to scientific support of the fire service in developing
+    fire fighting tactics. In recent years he has been a pi or co-pi on funded research
+    from the Department of Commerce, AFOSR, and DOE. He has published over 200 journal
+    and conference papers in heat transfer and combustion and has co-authored books
+    on heat transfer and a book chapter on ignition.</p>"
   media:
-    image: "/uploads/2020/10/20/pexels-tyler-lastovich-719399.jpg"
+    image: ''
     alt_text: ''
 - template: simple-footer
   block: footer-1
