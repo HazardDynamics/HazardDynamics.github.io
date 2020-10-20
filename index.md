@@ -25,10 +25,11 @@ page_sections:
   media_alignment: Left
   slug: services
   headline: "<strong>Services</strong>"
-  content: We provide a variety of services
+  content: 'We provide a variety of services:'
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2020/10/20/greenenergyfirecollage.png"
+    alt_text: Photos of Electric car, green energy, lithium-ion battery, battery powered
+      scooter and fire
 - template: content-feature
   block: feature-1
   media_alignment: Right
