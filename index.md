@@ -24,7 +24,7 @@ page_sections:
     &amp; Explosion Risk Assessment</p></li><li><p>Expert Witness Services for Fires,
     Explosions and Battery Failures</p></li><li><p>Battery Safety System Design Assistance</p></li></ul>"
   media:
-    image: "/uploads/2020/10/20/hazarddynamics_stackedgood.png"
+    image: "/uploads/2020/11/03/single94ah_cell.mp4"
     alt_text: Hazard Dynamics LLC Logo
 - template: content-feature
   block: feature-1
